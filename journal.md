@@ -32,3 +32,8 @@ I'm pretty sure outside sources only exists to show we aren't glueing a bunch of
 I looked at my capstone resume and summarized my best skills in 1 sentance.
 It could be longer, but other students kept it short too.
 Short is probably best for a website, which is not a resume.
+The nav bar wouldn't expand when I clicked the hamburger button, nothing logged in console.
+After 15 minutes, I realized I needed to import Bootstrap's JS script.
+I forgot what ARIA was and looked at the Wikipedia page for it.
+Now I know why a blind student I met hated hamburger menus, I bet many web devs don't put ARIA attributes in them.
+I'm not 100% certain I did it right, but I put what the example had as it looked reasonable.
