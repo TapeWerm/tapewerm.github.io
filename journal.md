@@ -43,3 +43,5 @@ I removed the line about my skills from about because my work and projects demo 
 It felt out of place and like a cheap flex.
 Now that I have my work and projects listed, it's starting to feel like a real site.
 I kinda want to add more images to the site to make it feel less bland, but then it takes longer to load and read.
+I decided to add an image of a Nether Portal to make the projects section more lively.
+A Nether Portal is small, square, and recognizable, so I already had the image I'm using for my Minecraft server's Discord server.
