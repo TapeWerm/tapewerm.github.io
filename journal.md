@@ -38,10 +38,39 @@ After 15 minutes, I realized I needed to import Bootstrap's JS script.
 I forgot what ARIA was and looked at the Wikipedia page for it.
 Now I know why a blind student I met hated hamburger menus, I bet many web devs don't put ARIA attributes in them.
 I'm not 100% certain I did it right, but I put what the example had as it looked reasonable.
-I forgot how to put a newline in HTML text, now I remember what `<br>` is for.
+
+I chose an unordered list for work, I saw Shawn used dropdowns which were nice but I'll save more detail for a resume.
+I forgot how to put a newline in HTML lists, now I remember what `<br>` is for.
 I removed the line about my skills from about because my work and projects demo that better.
 It felt out of place and like a cheap flex.
 Now that I have my work and projects listed, it's starting to feel like a real site.
 I kinda want to add more images to the site to make it feel less bland, but then it takes longer to load and read.
 I decided to add an image of a Nether Portal to make the projects section more lively.
 A Nether Portal is small, square, and recognizable, so I already had the image I'm using for my Minecraft server's Discord server.
+One challenge with the form was button width.
+I found out you can change the width of an element to a percentage of its parent, so I did that in a grid in its parent grid.
+I also was stuck on the message box because I couldn't remember what input a scrollable text box is called.
+I found HTML element textarea, and it got the job done.
+After that I tested accessibility in Firefox and Edge, and it passed.
+I also tested the tab key to make sure tab key selection was usable.
+I finally added a warning that the form is non functional.
+A modal would both involve JavaScript and waste the user's time.
+The finished product is a bit basic and I might improve it at some point.
+For now, I got more homework to do, and I could use a break after.
+
+# Outside sources
+- Class slides
+  - HTML
+  - Bootstrap
+- https://getbootstrap.com/docs/5.1/components/buttons/
+- https://getbootstrap.com/docs/5.1/getting-started/introduction/
+- https://getbootstrap.com/docs/5.1/layout/containers/
+- https://getbootstrap.com/docs/5.1/layout/grid/
+- https://getbootstrap.com/docs/5.1/utilities/sizing/
+- https://getbootstrap.com/docs/5.1/utilities/spacing/
+- https://getbootstrap.com/docs/5.1/utilities/text/
+- https://pages.github.com/
+- https://stackoverflow.com/questions/39325414/line-break-in-html-with-n
+- https://www.tutorialrepublic.com/faq/how-to-center-a-column-in-bootstrap.php
+- https://www.w3schools.com/bootstrap4/bootstrap_images.asp
+- https://www.w3schools.com/tags/tag_textarea.asp
