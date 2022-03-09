@@ -1,5 +1,6 @@
 https://github.com/TapeWerm/tapewerm.github.io
 https://tapewerm.github.io/
+
 # 3-7-2021
 Writing a website from scratch is harder than adding to an existing one.
 Aside from `<!DOCTYPE html>`, I couldn't remember where to start because it was always supplied by the assignments.
