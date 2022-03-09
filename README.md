@@ -18,6 +18,7 @@ Open `index.html`.
 - https://getbootstrap.com/docs/5.1/getting-started/introduction/
 - https://getbootstrap.com/docs/5.1/layout/containers/
 - https://getbootstrap.com/docs/5.1/layout/grid/
+- https://getbootstrap.com/docs/5.1/utilities/sizing/
 - https://getbootstrap.com/docs/5.1/utilities/spacing/
 - https://getbootstrap.com/docs/5.1/utilities/text/
 - https://pages.github.com/
