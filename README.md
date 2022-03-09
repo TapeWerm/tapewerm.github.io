@@ -14,6 +14,7 @@ Open `index.html`.
 - Class slides
   - HTML
   - Bootstrap
+- https://getbootstrap.com/docs/5.1/components/buttons/
 - https://getbootstrap.com/docs/5.1/getting-started/introduction/
 - https://getbootstrap.com/docs/5.1/layout/containers/
 - https://getbootstrap.com/docs/5.1/layout/grid/
@@ -23,3 +24,4 @@ Open `index.html`.
 - https://stackoverflow.com/questions/39325414/line-break-in-html-with-n
 - https://www.tutorialrepublic.com/faq/how-to-center-a-column-in-bootstrap.php
 - https://www.w3schools.com/bootstrap4/bootstrap_images.asp
+- https://www.w3schools.com/tags/tag_textarea.asp
