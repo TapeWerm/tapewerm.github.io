@@ -37,3 +37,8 @@ After 15 minutes, I realized I needed to import Bootstrap's JS script.
 I forgot what ARIA was and looked at the Wikipedia page for it.
 Now I know why a blind student I met hated hamburger menus, I bet many web devs don't put ARIA attributes in them.
 I'm not 100% certain I did it right, but I put what the example had as it looked reasonable.
+I forgot how to put a newline in HTML text, now I remember what `<br>` is for.
+I removed the line about my skills from about because my work and projects demo that better.
+It felt out of place and like a cheap flex.
+Now that I have my work and projects listed, it's starting to feel like a real site.
+I kinda want to add more images to the site to make it feel less bland, but then it takes longer to load and read.
