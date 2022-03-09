@@ -18,6 +18,7 @@ Open `index.html`.
 - https://getbootstrap.com/docs/5.1/layout/containers/
 - https://getbootstrap.com/docs/5.1/layout/grid/
 - https://getbootstrap.com/docs/5.1/utilities/spacing/
+- https://getbootstrap.com/docs/5.1/utilities/text/
 - https://pages.github.com/
 - https://www.tutorialrepublic.com/faq/how-to-center-a-column-in-bootstrap.php
 - https://www.w3schools.com/bootstrap4/bootstrap_images.asp

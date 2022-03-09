@@ -12,6 +12,7 @@ I got stuck on what to name the HTML file for GitHub Pages but their website say
 I've seen that filename before, I wish I thought of that earlier.
 I write a Hello World and push it to verify my workflow is functioning.
 I put the rest off for the next day.
+
 # 3-8-2021
 Now I have to do real work.
 Technically what I did yesterday was real, but Hello World sure doesn't look like that to other people.
@@ -23,3 +24,11 @@ Rounding up to even XXL column number 8 fits 760px, as does 8 XL columns and 10 
 Google found centering columns is done by class mx-auto.
 Google also found Y margins and circle images.
 Now I have to make a navbar, the one thing besides GitHub Pages that I haven't done before.
+
+# 3-9-2021
+I realize the page doesn't even have my name or a proper introduction.
+Outside sources are also missing a link.
+I'm pretty sure outside sources only exists to show we aren't glueing a bunch of Stack Overflow code together, but I should try to keep it complete.
+I looked at my capstone resume and summarized my best skills in 1 sentance.
+It could be longer, but other students kept it short too.
+Short is probably best for a website, which is not a resume.
