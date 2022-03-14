@@ -1,7 +1,7 @@
 https://github.com/TapeWerm/tapewerm.github.io
 https://tapewerm.github.io/
 
-# 3-7-2021
+# 3-7-2022
 Writing a website from scratch is harder than adding to an existing one.
 Aside from `<!DOCTYPE html>`, I couldn't remember where to start because it was always supplied by the assignments.
 The class slides showed `<head>`, and I read about the elements again to figure out what I needed.
@@ -14,7 +14,7 @@ I've seen that filename before, I wish I thought of that earlier.
 I write a Hello World and push it to verify my workflow is functioning.
 I put the rest off for the next day.
 
-# 3-8-2021
+# 3-8-2022
 Now I have to do real work.
 Technically what I did yesterday was real, but Hello World sure doesn't look like that to other people.
 Like always, I spent a lot of time figuring out a clean solution to a simple problem.
@@ -26,7 +26,7 @@ Google found centering columns is done by class mx-auto.
 Google also found Y margins and circle images.
 Now I have to make a navbar, the one thing besides GitHub Pages that I haven't done before.
 
-# 3-9-2021
+# 3-9-2022
 I realize the page doesn't even have my name or a proper introduction.
 Outside sources are also missing a link.
 I'm pretty sure outside sources only exists to show we aren't glueing a bunch of Stack Overflow code together, but I should try to keep it complete.
@@ -58,6 +58,10 @@ A modal would both involve JavaScript and waste the user's time.
 The finished product is a bit basic and I might improve it at some point.
 For now, I got more homework to do, and I could use a break after.
 
+# 3-14-2022
+I changed the buttons to use d-grid like the bootstrap example.
+Sometimes a day makes a difference, today I noticed the journal dates were typo'd 2021 instead of 2022.
+
 # Outside sources
 - Class slides
   - HTML
@@ -66,6 +70,7 @@ For now, I got more homework to do, and I could use a break after.
 - https://getbootstrap.com/docs/5.1/getting-started/introduction/
 - https://getbootstrap.com/docs/5.1/layout/containers/
 - https://getbootstrap.com/docs/5.1/layout/grid/
+- https://getbootstrap.com/docs/5.1/utilities/display/
 - https://getbootstrap.com/docs/5.1/utilities/sizing/
 - https://getbootstrap.com/docs/5.1/utilities/spacing/
 - https://getbootstrap.com/docs/5.1/utilities/text/
