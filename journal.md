@@ -83,7 +83,6 @@ The form may still be non functional but at least the HTML is correct now.
 - https://getbootstrap.com/docs/5.1/utilities/text/
 - https://pages.github.com/
 - https://stackoverflow.com/questions/39325414/line-break-in-html-with-n
-- https://stackoverflow.com/questions/1263852/prevent-form-redirect-or-refresh-on-submit
 - https://www.tutorialrepublic.com/faq/how-to-center-a-column-in-bootstrap.php
 - https://www.w3schools.com/bootstrap4/bootstrap_images.asp
 - https://www.w3schools.com/html/html_form_input_types.asp

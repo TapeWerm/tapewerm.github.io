@@ -8,5 +8,4 @@ function handleSubmit(event) {
     console.log("Email:", form.email.value);
     console.log("Message:", form.message.value);
     console.groupEnd();
-    return false;
 }
