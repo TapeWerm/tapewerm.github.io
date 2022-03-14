@@ -11,4 +11,22 @@ Download [ZIP](https://github.com/TapeWerm/tapewerm.github.io/archive/refs/heads
 Open `index.html`.
 
 # Outside sources
-See [journal.md](journal.md#outside-sources).
+- Class slides
+  - HTML
+  - Bootstrap
+- https://developer.mozilla.org/en-US/docs/Web/API/console/group
+- https://getbootstrap.com/docs/5.1/components/buttons/
+- https://getbootstrap.com/docs/5.1/getting-started/introduction/
+- https://getbootstrap.com/docs/5.1/layout/containers/
+- https://getbootstrap.com/docs/5.1/layout/grid/
+- https://getbootstrap.com/docs/5.1/utilities/display/
+- https://getbootstrap.com/docs/5.1/utilities/sizing/
+- https://getbootstrap.com/docs/5.1/utilities/spacing/
+- https://getbootstrap.com/docs/5.1/utilities/text/
+- https://pages.github.com/
+- https://stackoverflow.com/questions/39325414/line-break-in-html-with-n
+- https://www.tutorialrepublic.com/faq/how-to-center-a-column-in-bootstrap.php
+- https://www.w3schools.com/bootstrap4/bootstrap_images.asp
+- https://www.w3schools.com/html/html_form_input_types.asp
+- https://www.w3schools.com/tags/tag_script.asp
+- https://www.w3schools.com/tags/tag_textarea.asp
